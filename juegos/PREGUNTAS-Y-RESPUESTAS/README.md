@@ -3,6 +3,9 @@
 💻 **Descripción del proyecto**  
 Este proyecto es un **juego de preguntas y respuestas** interactivo, desarrollado completamente con **HTML**, **CSS** y **JavaScript**.
 
+📚 **Inspiración**
+El proyecto fue desarrollado siguiendo un tutorial del canal de YouTube CodingTube (https://www.youtube.com/watch?v=cUvuEI0jo-4)
+
 🎮 **Características principales**  
 - Selección de temas dinámicos.  
 - Interacción en tiempo real con detección de respuestas correctas e incorrectas.  
